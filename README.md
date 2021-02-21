@@ -5,8 +5,11 @@ An analysis of microarray dataset GSE39582, generated and described in Marisa, e
 # Contributors
 
 Marissa Chiaradio
+
 Rebecca Spirgel
+
 Ledia Gebremedhin
+
 Giulia Digiovanni
 
 # Repository Contents
